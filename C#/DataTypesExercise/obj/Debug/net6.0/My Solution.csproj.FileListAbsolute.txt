@@ -1,0 +1,15 @@
+C:\Users\Owner\Revature\trainer-code\wk1\CExercises\3_DataTypeAndVariables\3_DataTypeAndVariablesChallenge-StudentCopy\My Solution\obj\Debug\net6.0\My Solution.csproj.AssemblyReference.cache
+C:\Users\Owner\Revature\trainer-code\wk1\CExercises\3_DataTypeAndVariables\3_DataTypeAndVariablesChallenge-StudentCopy\My Solution\obj\Debug\net6.0\My Solution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Revature\trainer-code\wk1\CExercises\3_DataTypeAndVariables\3_DataTypeAndVariablesChallenge-StudentCopy\My Solution\obj\Debug\net6.0\My Solution.AssemblyInfoInputs.cache
+C:\Users\Owner\Revature\trainer-code\wk1\CExercises\3_DataTypeAndVariables\3_DataTypeAndVariablesChallenge-StudentCopy\My Solution\obj\Debug\net6.0\My Solution.AssemblyInfo.cs
+C:\Users\Owner\Revature\trainer-code\wk1\CExercises\3_DataTypeAndVariables\3_DataTypeAndVariablesChallenge-StudentCopy\My Solution\obj\Debug\net6.0\My Solution.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Revature\trainer-code\wk1\CExercises\3_DataTypeAndVariables\3_DataTypeAndVariablesChallenge-StudentCopy\My Solution\bin\Debug\net6.0\My Solution.exe
+C:\Users\Owner\Revature\trainer-code\wk1\CExercises\3_DataTypeAndVariables\3_DataTypeAndVariablesChallenge-StudentCopy\My Solution\bin\Debug\net6.0\My Solution.deps.json
+C:\Users\Owner\Revature\trainer-code\wk1\CExercises\3_DataTypeAndVariables\3_DataTypeAndVariablesChallenge-StudentCopy\My Solution\bin\Debug\net6.0\My Solution.runtimeconfig.json
+C:\Users\Owner\Revature\trainer-code\wk1\CExercises\3_DataTypeAndVariables\3_DataTypeAndVariablesChallenge-StudentCopy\My Solution\bin\Debug\net6.0\My Solution.dll
+C:\Users\Owner\Revature\trainer-code\wk1\CExercises\3_DataTypeAndVariables\3_DataTypeAndVariablesChallenge-StudentCopy\My Solution\bin\Debug\net6.0\ref\My Solution.dll
+C:\Users\Owner\Revature\trainer-code\wk1\CExercises\3_DataTypeAndVariables\3_DataTypeAndVariablesChallenge-StudentCopy\My Solution\bin\Debug\net6.0\My Solution.pdb
+C:\Users\Owner\Revature\trainer-code\wk1\CExercises\3_DataTypeAndVariables\3_DataTypeAndVariablesChallenge-StudentCopy\My Solution\obj\Debug\net6.0\My Solution.dll
+C:\Users\Owner\Revature\trainer-code\wk1\CExercises\3_DataTypeAndVariables\3_DataTypeAndVariablesChallenge-StudentCopy\My Solution\obj\Debug\net6.0\ref\My Solution.dll
+C:\Users\Owner\Revature\trainer-code\wk1\CExercises\3_DataTypeAndVariables\3_DataTypeAndVariablesChallenge-StudentCopy\My Solution\obj\Debug\net6.0\My Solution.pdb
+C:\Users\Owner\Revature\trainer-code\wk1\CExercises\3_DataTypeAndVariables\3_DataTypeAndVariablesChallenge-StudentCopy\My Solution\obj\Debug\net6.0\My Solution.genruntimeconfig.cache

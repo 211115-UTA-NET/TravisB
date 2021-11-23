@@ -1,0 +1,15 @@
+C:\Users\Owner\Revature\TravisB\C#\1_StringManipulation\obj\Debug\net6.0\1_StringManipulation.csproj.AssemblyReference.cache
+C:\Users\Owner\Revature\TravisB\C#\1_StringManipulation\obj\Debug\net6.0\1_StringManipulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Revature\TravisB\C#\1_StringManipulation\obj\Debug\net6.0\1_StringManipulation.AssemblyInfoInputs.cache
+C:\Users\Owner\Revature\TravisB\C#\1_StringManipulation\obj\Debug\net6.0\1_StringManipulation.AssemblyInfo.cs
+C:\Users\Owner\Revature\TravisB\C#\1_StringManipulation\obj\Debug\net6.0\1_StringManipulation.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Revature\TravisB\C#\1_StringManipulation\bin\Debug\net6.0\1_StringManipulation.exe
+C:\Users\Owner\Revature\TravisB\C#\1_StringManipulation\bin\Debug\net6.0\1_StringManipulation.deps.json
+C:\Users\Owner\Revature\TravisB\C#\1_StringManipulation\bin\Debug\net6.0\1_StringManipulation.runtimeconfig.json
+C:\Users\Owner\Revature\TravisB\C#\1_StringManipulation\bin\Debug\net6.0\1_StringManipulation.dll
+C:\Users\Owner\Revature\TravisB\C#\1_StringManipulation\bin\Debug\net6.0\ref\1_StringManipulation.dll
+C:\Users\Owner\Revature\TravisB\C#\1_StringManipulation\bin\Debug\net6.0\1_StringManipulation.pdb
+C:\Users\Owner\Revature\TravisB\C#\1_StringManipulation\obj\Debug\net6.0\1_StringManipulation.dll
+C:\Users\Owner\Revature\TravisB\C#\1_StringManipulation\obj\Debug\net6.0\ref\1_StringManipulation.dll
+C:\Users\Owner\Revature\TravisB\C#\1_StringManipulation\obj\Debug\net6.0\1_StringManipulation.pdb
+C:\Users\Owner\Revature\TravisB\C#\1_StringManipulation\obj\Debug\net6.0\1_StringManipulation.genruntimeconfig.cache

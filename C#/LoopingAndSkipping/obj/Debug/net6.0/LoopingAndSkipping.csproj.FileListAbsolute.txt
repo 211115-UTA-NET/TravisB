@@ -1,0 +1,15 @@
+C:\Users\Owner\Revature\LoopingAndSkipping\bin\Debug\net6.0\LoopingAndSkipping.exe
+C:\Users\Owner\Revature\LoopingAndSkipping\bin\Debug\net6.0\LoopingAndSkipping.deps.json
+C:\Users\Owner\Revature\LoopingAndSkipping\bin\Debug\net6.0\LoopingAndSkipping.runtimeconfig.json
+C:\Users\Owner\Revature\LoopingAndSkipping\bin\Debug\net6.0\LoopingAndSkipping.dll
+C:\Users\Owner\Revature\LoopingAndSkipping\bin\Debug\net6.0\ref\LoopingAndSkipping.dll
+C:\Users\Owner\Revature\LoopingAndSkipping\bin\Debug\net6.0\LoopingAndSkipping.pdb
+C:\Users\Owner\Revature\LoopingAndSkipping\obj\Debug\net6.0\LoopingAndSkipping.csproj.AssemblyReference.cache
+C:\Users\Owner\Revature\LoopingAndSkipping\obj\Debug\net6.0\LoopingAndSkipping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Revature\LoopingAndSkipping\obj\Debug\net6.0\LoopingAndSkipping.AssemblyInfoInputs.cache
+C:\Users\Owner\Revature\LoopingAndSkipping\obj\Debug\net6.0\LoopingAndSkipping.AssemblyInfo.cs
+C:\Users\Owner\Revature\LoopingAndSkipping\obj\Debug\net6.0\LoopingAndSkipping.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Revature\LoopingAndSkipping\obj\Debug\net6.0\LoopingAndSkipping.dll
+C:\Users\Owner\Revature\LoopingAndSkipping\obj\Debug\net6.0\ref\LoopingAndSkipping.dll
+C:\Users\Owner\Revature\LoopingAndSkipping\obj\Debug\net6.0\LoopingAndSkipping.pdb
+C:\Users\Owner\Revature\LoopingAndSkipping\obj\Debug\net6.0\LoopingAndSkipping.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\Owner\Revature\PersonalizedEcho\bin\Debug\net6.0\PersonalizedEcho.exe
+C:\Users\Owner\Revature\PersonalizedEcho\bin\Debug\net6.0\PersonalizedEcho.deps.json
+C:\Users\Owner\Revature\PersonalizedEcho\bin\Debug\net6.0\PersonalizedEcho.runtimeconfig.json
+C:\Users\Owner\Revature\PersonalizedEcho\bin\Debug\net6.0\PersonalizedEcho.dll
+C:\Users\Owner\Revature\PersonalizedEcho\bin\Debug\net6.0\ref\PersonalizedEcho.dll
+C:\Users\Owner\Revature\PersonalizedEcho\bin\Debug\net6.0\PersonalizedEcho.pdb
+C:\Users\Owner\Revature\PersonalizedEcho\obj\Debug\net6.0\PersonalizedEcho.csproj.AssemblyReference.cache
+C:\Users\Owner\Revature\PersonalizedEcho\obj\Debug\net6.0\PersonalizedEcho.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Revature\PersonalizedEcho\obj\Debug\net6.0\PersonalizedEcho.AssemblyInfoInputs.cache
+C:\Users\Owner\Revature\PersonalizedEcho\obj\Debug\net6.0\PersonalizedEcho.AssemblyInfo.cs
+C:\Users\Owner\Revature\PersonalizedEcho\obj\Debug\net6.0\PersonalizedEcho.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Revature\PersonalizedEcho\obj\Debug\net6.0\PersonalizedEcho.dll
+C:\Users\Owner\Revature\PersonalizedEcho\obj\Debug\net6.0\ref\PersonalizedEcho.dll
+C:\Users\Owner\Revature\PersonalizedEcho\obj\Debug\net6.0\PersonalizedEcho.pdb
+C:\Users\Owner\Revature\PersonalizedEcho\obj\Debug\net6.0\PersonalizedEcho.genruntimeconfig.cache

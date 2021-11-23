@@ -1,0 +1,15 @@
+C:\Users\Owner\Revature\TravisB\C#\OperatorsExercise\bin\Debug\net6.0\OperatorsExercise.exe
+C:\Users\Owner\Revature\TravisB\C#\OperatorsExercise\bin\Debug\net6.0\OperatorsExercise.deps.json
+C:\Users\Owner\Revature\TravisB\C#\OperatorsExercise\bin\Debug\net6.0\OperatorsExercise.runtimeconfig.json
+C:\Users\Owner\Revature\TravisB\C#\OperatorsExercise\bin\Debug\net6.0\OperatorsExercise.dll
+C:\Users\Owner\Revature\TravisB\C#\OperatorsExercise\bin\Debug\net6.0\ref\OperatorsExercise.dll
+C:\Users\Owner\Revature\TravisB\C#\OperatorsExercise\bin\Debug\net6.0\OperatorsExercise.pdb
+C:\Users\Owner\Revature\TravisB\C#\OperatorsExercise\obj\Debug\net6.0\OperatorsExercise.csproj.AssemblyReference.cache
+C:\Users\Owner\Revature\TravisB\C#\OperatorsExercise\obj\Debug\net6.0\OperatorsExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Revature\TravisB\C#\OperatorsExercise\obj\Debug\net6.0\OperatorsExercise.AssemblyInfoInputs.cache
+C:\Users\Owner\Revature\TravisB\C#\OperatorsExercise\obj\Debug\net6.0\OperatorsExercise.AssemblyInfo.cs
+C:\Users\Owner\Revature\TravisB\C#\OperatorsExercise\obj\Debug\net6.0\OperatorsExercise.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Revature\TravisB\C#\OperatorsExercise\obj\Debug\net6.0\OperatorsExercise.dll
+C:\Users\Owner\Revature\TravisB\C#\OperatorsExercise\obj\Debug\net6.0\ref\OperatorsExercise.dll
+C:\Users\Owner\Revature\TravisB\C#\OperatorsExercise\obj\Debug\net6.0\OperatorsExercise.pdb
+C:\Users\Owner\Revature\TravisB\C#\OperatorsExercise\obj\Debug\net6.0\OperatorsExercise.genruntimeconfig.cache
