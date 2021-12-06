@@ -1,0 +1,15 @@
+C:\Users\Owner\Revature\TravisB\C#\Project0\DinosaurListExample\bin\Debug\net6.0\DinosaurListExample.exe
+C:\Users\Owner\Revature\TravisB\C#\Project0\DinosaurListExample\bin\Debug\net6.0\DinosaurListExample.deps.json
+C:\Users\Owner\Revature\TravisB\C#\Project0\DinosaurListExample\bin\Debug\net6.0\DinosaurListExample.runtimeconfig.json
+C:\Users\Owner\Revature\TravisB\C#\Project0\DinosaurListExample\bin\Debug\net6.0\DinosaurListExample.dll
+C:\Users\Owner\Revature\TravisB\C#\Project0\DinosaurListExample\bin\Debug\net6.0\ref\DinosaurListExample.dll
+C:\Users\Owner\Revature\TravisB\C#\Project0\DinosaurListExample\bin\Debug\net6.0\DinosaurListExample.pdb
+C:\Users\Owner\Revature\TravisB\C#\Project0\DinosaurListExample\obj\Debug\net6.0\DinosaurListExample.csproj.AssemblyReference.cache
+C:\Users\Owner\Revature\TravisB\C#\Project0\DinosaurListExample\obj\Debug\net6.0\DinosaurListExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Revature\TravisB\C#\Project0\DinosaurListExample\obj\Debug\net6.0\DinosaurListExample.AssemblyInfoInputs.cache
+C:\Users\Owner\Revature\TravisB\C#\Project0\DinosaurListExample\obj\Debug\net6.0\DinosaurListExample.AssemblyInfo.cs
+C:\Users\Owner\Revature\TravisB\C#\Project0\DinosaurListExample\obj\Debug\net6.0\DinosaurListExample.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Revature\TravisB\C#\Project0\DinosaurListExample\obj\Debug\net6.0\DinosaurListExample.dll
+C:\Users\Owner\Revature\TravisB\C#\Project0\DinosaurListExample\obj\Debug\net6.0\ref\DinosaurListExample.dll
+C:\Users\Owner\Revature\TravisB\C#\Project0\DinosaurListExample\obj\Debug\net6.0\DinosaurListExample.pdb
+C:\Users\Owner\Revature\TravisB\C#\Project0\DinosaurListExample\obj\Debug\net6.0\DinosaurListExample.genruntimeconfig.cache
