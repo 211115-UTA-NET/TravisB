@@ -2,14 +2,14 @@
 
 ## Challenge Outline
 
-In this Challenge you are given the Abstract Shape Class and empty Rectangle, Square, and Triangle classes.  
-    - Rectangle inherits from Shape.  
-    - Square is a "special" rectangle so will inherit from Rectangle.  
-    - Triangle inherits from Shape.  
+In this Challenge you are given the Abstract Shape Class and empty Rectangle, Square, and Triangle classes.
+    - Rectangle inherits from Shape.
+    - Square is a "special" rectangle so will inherit from Rectangle.
+    - Triangle inherits from Shape.
       
-1. You must only accept the length of the sides in the constructors along with the name and number of sides.  
+1. You must only accept the length of the sides in the constructors along with the name and number of sides.
 
-2. Implement the Rectangle, Square, and Triangle classes such that the area of each can be retreived through the `.GetArea()` method.  
+2. Implement the Rectangle, Square, and Triangle classes such that the area of each can be retreived through the `.GetArea()` method.
 
     
 ## Submission

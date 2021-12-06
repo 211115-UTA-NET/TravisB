@@ -12,6 +12,8 @@ namespace AbstractClassesChallenge
         {
             this.length = Length;
             this.width = Width;
+            this.name = "Rectangle";
+            this.numSides = 4;
         }
 
         public override float SetArea()
